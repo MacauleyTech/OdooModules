@@ -1,0 +1,2 @@
+# OdooModules
+Odoo.sh
