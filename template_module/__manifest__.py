@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "template_module",
+    'name': "my_module",
 
     'summary': """
         Template to copy when starting a new module""",
